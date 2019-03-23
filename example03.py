@@ -3,6 +3,8 @@
 Homework on 04_PublishingAndGeometry
 '''
 
+#Alexandr Shcherbakov 622
+
 from tkinter import *
 from rgb import Colors
 import random
